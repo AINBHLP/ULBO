@@ -12,7 +12,47 @@
 }
 .LP2{
   position: absolute;
-  top: 8000px;
+  top: 962px;
+  left: 50%;
+  transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+}
+.LP3{
+  position: absolute;
+  top: 2364px;
+  left: 50%;
+  transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+}
+.LP4{
+  position: absolute;
+  top: 3837px;
+  left: 50%;
+  transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+}
+.LP5{
+  position: absolute;
+  top: 5217px;
+  left: 50%;
+  transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+}
+.LP6{
+  position: absolute;
+  top: 6085px;
+  left: 50%;
+  transform: translateX(-50%);
+  -webkit-transform: translateX(-50%);
+  -ms-transform: translateX(-50%);
+}
+.LP7{
+  position: absolute;
+  top: 8478px;
   left: 50%;
   transform: translateX(-50%);
   -webkit-transform: translateX(-50%);
@@ -20,7 +60,7 @@
 }
 .botan1 {
   position: absolute;
-  top: 3060px;
+  top: 3040px;
   left: 50%;
   transform: translateX(-50%);
   -webkit-transform: translateX(-50%);
@@ -28,7 +68,7 @@
 }
 .botan2 {
   position: absolute;
-  top: 5480px;
+  top: 5929px;
   left: 50%;
   transform: translateX(-50%);
   -webkit-transform: translateX(-50%);
@@ -36,7 +76,7 @@
 }
 .botan3 {
   position: absolute;
-  top: 11870px;
+  top: 12350px;
   left: 50%;
   transform: translateX(-50%);
   -webkit-transform: translateX(-50%);
@@ -44,7 +84,7 @@
 }
 .botan4 {
   position: absolute;
-  top: 15205px;
+  top: 15681px;
   left: 50%;
   transform: translateX(-50%);
   -webkit-transform: translateX(-50%);
