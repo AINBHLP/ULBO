@@ -60,7 +60,7 @@
 }
 .botan1 {
   position: absolute;
-  top: 3040px;
+  top: 1040px;
   left: 50%;
   transform: translateX(-50%);
   -webkit-transform: translateX(-50%);
@@ -68,7 +68,7 @@
 }
 .botan2 {
   position: absolute;
-  top: 5929px;
+  top: 10000px;
   left: 50%;
   transform: translateX(-50%);
   -webkit-transform: translateX(-50%);
@@ -76,15 +76,7 @@
 }
 .botan3 {
   position: absolute;
-  top: 12350px;
-  left: 50%;
-  transform: translateX(-50%);
-  -webkit-transform: translateX(-50%);
-  -ms-transform: translateX(-50%);
-}
-.botan4 {
-  position: absolute;
-  top: 15681px;
+  top: 15000px;
   left: 50%;
   transform: translateX(-50%);
   -webkit-transform: translateX(-50%);
