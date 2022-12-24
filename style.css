@@ -60,7 +60,7 @@
 }
 .botan1 {
   position: absolute;
-  top: 1500px;
+  top: 2000px;
   left: 50%;
   transform: translateX(-50%);
   -webkit-transform: translateX(-50%);
@@ -68,7 +68,7 @@
 }
 .botan2 {
   position: absolute;
-  top: 9800px;
+  top: 9950px;
   left: 50%;
   transform: translateX(-50%);
   -webkit-transform: translateX(-50%);
@@ -76,7 +76,7 @@
 }
 .botan3 {
   position: absolute;
-  top: 12500px;
+  top: 13500px;
   left: 50%;
   transform: translateX(-50%);
   -webkit-transform: translateX(-50%);
